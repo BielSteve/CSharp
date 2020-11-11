@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\bin\Debug\netcoreapp3.1\Exemplo 1016.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\bin\Debug\netcoreapp3.1\Exemplo 1016.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\bin\Debug\netcoreapp3.1\Exemplo 1016.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\bin\Debug\netcoreapp3.1\Exemplo 1016.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\bin\Debug\netcoreapp3.1\Exemplo 1016.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\bin\Debug\netcoreapp3.1\Exemplo 1016.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 7 URI\Exemplo 1016\Exemplo 1016\Exemplo 1016\obj\Debug\netcoreapp3.1\Exemplo 1016.genruntimeconfig.cache

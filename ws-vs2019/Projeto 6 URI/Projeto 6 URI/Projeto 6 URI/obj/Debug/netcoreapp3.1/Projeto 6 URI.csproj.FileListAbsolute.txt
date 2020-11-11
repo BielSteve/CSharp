@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\bin\Debug\netcoreapp3.1\Projeto 6 URI.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\bin\Debug\netcoreapp3.1\Projeto 6 URI.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\bin\Debug\netcoreapp3.1\Projeto 6 URI.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\bin\Debug\netcoreapp3.1\Projeto 6 URI.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\bin\Debug\netcoreapp3.1\Projeto 6 URI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\bin\Debug\netcoreapp3.1\Projeto 6 URI.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\obj\Debug\netcoreapp3.1\Projeto 6 URI.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\obj\Debug\netcoreapp3.1\Projeto 6 URI.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\obj\Debug\netcoreapp3.1\Projeto 6 URI.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\obj\Debug\netcoreapp3.1\Projeto 6 URI.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\obj\Debug\netcoreapp3.1\Projeto 6 URI.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Projeto 6 URI\Projeto 6 URI\Projeto 6 URI\obj\Debug\netcoreapp3.1\Projeto 6 URI.genruntimeconfig.cache
