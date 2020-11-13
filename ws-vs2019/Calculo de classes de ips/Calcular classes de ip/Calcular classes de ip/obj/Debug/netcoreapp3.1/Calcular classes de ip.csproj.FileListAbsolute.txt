@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\bin\Debug\netcoreapp3.1\Calcular classes de ip.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\bin\Debug\netcoreapp3.1\Calcular classes de ip.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\bin\Debug\netcoreapp3.1\Calcular classes de ip.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\bin\Debug\netcoreapp3.1\Calcular classes de ip.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\bin\Debug\netcoreapp3.1\Calcular classes de ip.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\bin\Debug\netcoreapp3.1\Calcular classes de ip.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Calculo de classes de ips\Calcular classes de ip\Calcular classes de ip\obj\Debug\netcoreapp3.1\Calcular classes de ip.genruntimeconfig.cache

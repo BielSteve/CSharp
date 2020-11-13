@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\bin\Debug\netcoreapp3.1\Area de um retangulo.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\bin\Debug\netcoreapp3.1\Area de um retangulo.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\bin\Debug\netcoreapp3.1\Area de um retangulo.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\bin\Debug\netcoreapp3.1\Area de um retangulo.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\bin\Debug\netcoreapp3.1\Area de um retangulo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\bin\Debug\netcoreapp3.1\Area de um retangulo.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de um retangulo\Area de um retangulo\Area de um retangulo\obj\Debug\netcoreapp3.1\Area de um retangulo.genruntimeconfig.cache
