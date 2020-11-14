@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\bin\Debug\netcoreapp3.1\Salário com Bônus.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\bin\Debug\netcoreapp3.1\Salário com Bônus.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\bin\Debug\netcoreapp3.1\Salário com Bônus.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\bin\Debug\netcoreapp3.1\Salário com Bônus.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\bin\Debug\netcoreapp3.1\Salário com Bônus.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\bin\Debug\netcoreapp3.1\Salário com Bônus.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Salário com Bônus- 1009\Salário com Bônus\Salário com Bônus\obj\Debug\netcoreapp3.1\Salário com Bônus.genruntimeconfig.cache
