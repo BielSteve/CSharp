@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\bin\Debug\netcoreapp3.1\Exemplo 1011 Esfera.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\bin\Debug\netcoreapp3.1\Exemplo 1011 Esfera.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\bin\Debug\netcoreapp3.1\Exemplo 1011 Esfera.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\bin\Debug\netcoreapp3.1\Exemplo 1011 Esfera.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\bin\Debug\netcoreapp3.1\Exemplo 1011 Esfera.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\bin\Debug\netcoreapp3.1\Exemplo 1011 Esfera.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Exemplo 1011 Esfera\Exemplo 1011 Esfera\Exemplo 1011 Esfera\obj\Debug\netcoreapp3.1\Exemplo 1011 Esfera.genruntimeconfig.cache
