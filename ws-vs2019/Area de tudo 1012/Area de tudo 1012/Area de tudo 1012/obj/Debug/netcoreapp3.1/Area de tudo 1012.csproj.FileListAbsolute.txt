@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\bin\Debug\netcoreapp3.1\Area de tudo 1012.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\bin\Debug\netcoreapp3.1\Area de tudo 1012.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\bin\Debug\netcoreapp3.1\Area de tudo 1012.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\bin\Debug\netcoreapp3.1\Area de tudo 1012.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\bin\Debug\netcoreapp3.1\Area de tudo 1012.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\bin\Debug\netcoreapp3.1\Area de tudo 1012.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Area de tudo 1012\Area de tudo 1012\Area de tudo 1012\obj\Debug\netcoreapp3.1\Area de tudo 1012.genruntimeconfig.cache
