@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Distância Entre Dois Pontos/1.0.0": {
+        "runtime": {
+          "Distância Entre Dois Pontos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Distância Entre Dois Pontos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
