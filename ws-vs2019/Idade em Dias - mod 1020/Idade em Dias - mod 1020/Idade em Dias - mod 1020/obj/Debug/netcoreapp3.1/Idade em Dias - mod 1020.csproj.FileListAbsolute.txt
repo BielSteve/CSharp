@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\bin\Debug\netcoreapp3.1\Idade em Dias - mod 1020.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\bin\Debug\netcoreapp3.1\Idade em Dias - mod 1020.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\bin\Debug\netcoreapp3.1\Idade em Dias - mod 1020.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\bin\Debug\netcoreapp3.1\Idade em Dias - mod 1020.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\bin\Debug\netcoreapp3.1\Idade em Dias - mod 1020.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\bin\Debug\netcoreapp3.1\Idade em Dias - mod 1020.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Idade em Dias - mod 1020\Idade em Dias - mod 1020\Idade em Dias - mod 1020\obj\Debug\netcoreapp3.1\Idade em Dias - mod 1020.genruntimeconfig.cache

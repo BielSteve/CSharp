@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Idade em Dias - mod 1020/1.0.0": {
+        "runtime": {
+          "Idade em Dias - mod 1020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Idade em Dias - mod 1020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

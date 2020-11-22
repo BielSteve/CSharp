@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\bin\Debug\netcoreapp3.1\Conversão de tempo - mod.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\bin\Debug\netcoreapp3.1\Conversão de tempo - mod.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\bin\Debug\netcoreapp3.1\Conversão de tempo - mod.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\bin\Debug\netcoreapp3.1\Conversão de tempo - mod.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\bin\Debug\netcoreapp3.1\Conversão de tempo - mod.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\bin\Debug\netcoreapp3.1\Conversão de tempo - mod.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Conversão de tempo - mod\Conversão de tempo - mod\Conversão de tempo - mod\obj\Debug\netcoreapp3.1\Conversão de tempo - mod.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\bin\Debug\netcoreapp3.1\Cédulas - mod.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\bin\Debug\netcoreapp3.1\Cédulas - mod.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\bin\Debug\netcoreapp3.1\Cédulas - mod.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\bin\Debug\netcoreapp3.1\Cédulas - mod.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\bin\Debug\netcoreapp3.1\Cédulas - mod.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\bin\Debug\netcoreapp3.1\Cédulas - mod.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Cédulas - mod\Cédulas - mod\Cédulas - mod\obj\Debug\netcoreapp3.1\Cédulas - mod.genruntimeconfig.cache

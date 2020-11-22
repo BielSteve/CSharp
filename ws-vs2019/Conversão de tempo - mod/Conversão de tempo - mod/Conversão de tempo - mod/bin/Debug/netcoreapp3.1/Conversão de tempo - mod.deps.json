@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conversão de tempo - mod/1.0.0": {
+        "runtime": {
+          "Conversão de tempo - mod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversão de tempo - mod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
