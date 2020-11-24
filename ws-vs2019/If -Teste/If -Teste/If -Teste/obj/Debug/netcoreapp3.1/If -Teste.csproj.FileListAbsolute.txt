@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\bin\Debug\netcoreapp3.1\If -Teste.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\bin\Debug\netcoreapp3.1\If -Teste.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\bin\Debug\netcoreapp3.1\If -Teste.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\bin\Debug\netcoreapp3.1\If -Teste.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\bin\Debug\netcoreapp3.1\If -Teste.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\bin\Debug\netcoreapp3.1\If -Teste.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\If -Teste\If -Teste\If -Teste\obj\Debug\netcoreapp3.1\If -Teste.genruntimeconfig.cache
