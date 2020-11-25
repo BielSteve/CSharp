@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\bin\Debug\netcoreapp3.1\Nota Escolar - If.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\bin\Debug\netcoreapp3.1\Nota Escolar - If.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\bin\Debug\netcoreapp3.1\Nota Escolar - If.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\bin\Debug\netcoreapp3.1\Nota Escolar - If.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\bin\Debug\netcoreapp3.1\Nota Escolar - If.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\bin\Debug\netcoreapp3.1\Nota Escolar - If.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nota Escolar - If\Nota Escolar - If\Nota Escolar - If\obj\Debug\netcoreapp3.1\Nota Escolar - If.genruntimeconfig.cache
