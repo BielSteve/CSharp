@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menor valor - IF", "Menor valor - IF\Menor valor - IF.csproj", "{B4D4838E-6A7A-4C35-B735-ED5E21FDF815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D4838E-6A7A-4C35-B735-ED5E21FDF815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D4838E-6A7A-4C35-B735-ED5E21FDF815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D4838E-6A7A-4C35-B735-ED5E21FDF815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D4838E-6A7A-4C35-B735-ED5E21FDF815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E9083A-A708-4506-9E49-6D26AB51EB35}
+	EndGlobalSection
+EndGlobal

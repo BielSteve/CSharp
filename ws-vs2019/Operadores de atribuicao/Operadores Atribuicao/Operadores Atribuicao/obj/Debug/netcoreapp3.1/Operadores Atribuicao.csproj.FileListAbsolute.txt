@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\bin\Debug\netcoreapp3.1\Operadores Atribuicao.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\bin\Debug\netcoreapp3.1\Operadores Atribuicao.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\bin\Debug\netcoreapp3.1\Operadores Atribuicao.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\bin\Debug\netcoreapp3.1\Operadores Atribuicao.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\bin\Debug\netcoreapp3.1\Operadores Atribuicao.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\bin\Debug\netcoreapp3.1\Operadores Atribuicao.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Operadores de atribuicao\Operadores Atribuicao\Operadores Atribuicao\obj\Debug\netcoreapp3.1\Operadores Atribuicao.genruntimeconfig.cache
