@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Múltiplos - IF 1044/1.0.0": {
+        "runtime": {
+          "Múltiplos - IF 1044.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Múltiplos - IF 1044/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

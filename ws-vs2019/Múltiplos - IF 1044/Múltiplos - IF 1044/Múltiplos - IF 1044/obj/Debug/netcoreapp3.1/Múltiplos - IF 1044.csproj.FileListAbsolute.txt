@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\bin\Debug\netcoreapp3.1\Múltiplos - IF 1044.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\bin\Debug\netcoreapp3.1\Múltiplos - IF 1044.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\bin\Debug\netcoreapp3.1\Múltiplos - IF 1044.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\bin\Debug\netcoreapp3.1\Múltiplos - IF 1044.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\bin\Debug\netcoreapp3.1\Múltiplos - IF 1044.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\bin\Debug\netcoreapp3.1\Múltiplos - IF 1044.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Múltiplos - IF 1044\Múltiplos - IF 1044\Múltiplos - IF 1044\obj\Debug\netcoreapp3.1\Múltiplos - IF 1044.genruntimeconfig.cache

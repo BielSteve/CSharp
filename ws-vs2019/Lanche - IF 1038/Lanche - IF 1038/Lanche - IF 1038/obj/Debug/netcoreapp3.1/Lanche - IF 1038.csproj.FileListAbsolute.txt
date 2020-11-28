@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\bin\Debug\netcoreapp3.1\Lanche - IF 1038.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\bin\Debug\netcoreapp3.1\Lanche - IF 1038.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\bin\Debug\netcoreapp3.1\Lanche - IF 1038.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\bin\Debug\netcoreapp3.1\Lanche - IF 1038.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\bin\Debug\netcoreapp3.1\Lanche - IF 1038.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\bin\Debug\netcoreapp3.1\Lanche - IF 1038.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Lanche - IF 1038\Lanche - IF 1038\Lanche - IF 1038\obj\Debug\netcoreapp3.1\Lanche - IF 1038.genruntimeconfig.cache

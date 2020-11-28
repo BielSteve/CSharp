@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\bin\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\bin\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\bin\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\bin\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\bin\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\bin\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\Teste de Seleção 1 - IF 1035\obj\Debug\netcoreapp3.1\Teste de Seleção 1 - IF 1035.genruntimeconfig.cache
