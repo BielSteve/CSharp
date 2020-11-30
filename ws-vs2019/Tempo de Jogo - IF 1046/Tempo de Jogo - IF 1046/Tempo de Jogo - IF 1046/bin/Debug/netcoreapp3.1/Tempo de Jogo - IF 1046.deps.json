@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tempo de Jogo - IF 1046/1.0.0": {
+        "runtime": {
+          "Tempo de Jogo - IF 1046.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tempo de Jogo - IF 1046/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

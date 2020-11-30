@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\bin\Debug\netcoreapp3.1\Intervalo - IF 1037.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\bin\Debug\netcoreapp3.1\Intervalo - IF 1037.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\bin\Debug\netcoreapp3.1\Intervalo - IF 1037.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\bin\Debug\netcoreapp3.1\Intervalo - IF 1037.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\bin\Debug\netcoreapp3.1\Intervalo - IF 1037.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\bin\Debug\netcoreapp3.1\Intervalo - IF 1037.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Intervalo - IF 1037\Intervalo - IF 1037\Intervalo - IF 1037\obj\Debug\netcoreapp3.1\Intervalo - IF 1037.genruntimeconfig.cache
