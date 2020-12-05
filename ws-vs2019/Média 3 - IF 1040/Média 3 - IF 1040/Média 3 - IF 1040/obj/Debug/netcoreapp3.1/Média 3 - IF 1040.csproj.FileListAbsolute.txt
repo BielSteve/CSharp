@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\bin\Debug\netcoreapp3.1\Média 3 - IF 1040.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\bin\Debug\netcoreapp3.1\Média 3 - IF 1040.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\bin\Debug\netcoreapp3.1\Média 3 - IF 1040.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\bin\Debug\netcoreapp3.1\Média 3 - IF 1040.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\bin\Debug\netcoreapp3.1\Média 3 - IF 1040.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\bin\Debug\netcoreapp3.1\Média 3 - IF 1040.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Média 3 - IF 1040\Média 3 - IF 1040\Média 3 - IF 1040\obj\Debug\netcoreapp3.1\Média 3 - IF 1040.genruntimeconfig.cache
