@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\bin\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\bin\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\bin\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\bin\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\bin\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\bin\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\Imposto de Renda - IF 1051\obj\Debug\netcoreapp3.1\Imposto de Renda - IF 1051.genruntimeconfig.cache
