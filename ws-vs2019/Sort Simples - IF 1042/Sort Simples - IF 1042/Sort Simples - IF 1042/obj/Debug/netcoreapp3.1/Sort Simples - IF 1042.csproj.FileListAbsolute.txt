@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\bin\Debug\netcoreapp3.1\Sort Simples - IF 1042.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\bin\Debug\netcoreapp3.1\Sort Simples - IF 1042.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\bin\Debug\netcoreapp3.1\Sort Simples - IF 1042.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\bin\Debug\netcoreapp3.1\Sort Simples - IF 1042.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\bin\Debug\netcoreapp3.1\Sort Simples - IF 1042.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\bin\Debug\netcoreapp3.1\Sort Simples - IF 1042.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Sort Simples - IF 1042\Sort Simples - IF 1042\Sort Simples - IF 1042\obj\Debug\netcoreapp3.1\Sort Simples - IF 1042.genruntimeconfig.cache
