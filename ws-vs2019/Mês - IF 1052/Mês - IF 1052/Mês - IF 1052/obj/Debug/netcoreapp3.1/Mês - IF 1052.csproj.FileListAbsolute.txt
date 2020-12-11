@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\bin\Debug\netcoreapp3.1\Mês - IF 1052.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\bin\Debug\netcoreapp3.1\Mês - IF 1052.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\bin\Debug\netcoreapp3.1\Mês - IF 1052.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\bin\Debug\netcoreapp3.1\Mês - IF 1052.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\bin\Debug\netcoreapp3.1\Mês - IF 1052.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\bin\Debug\netcoreapp3.1\Mês - IF 1052.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Mês - IF 1052\Mês - IF 1052\Mês - IF 1052\obj\Debug\netcoreapp3.1\Mês - IF 1052.genruntimeconfig.cache

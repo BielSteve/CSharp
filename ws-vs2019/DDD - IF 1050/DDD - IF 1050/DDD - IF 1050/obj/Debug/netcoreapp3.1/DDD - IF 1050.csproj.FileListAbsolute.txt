@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\bin\Debug\netcoreapp3.1\DDD - IF 1050.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\bin\Debug\netcoreapp3.1\DDD - IF 1050.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\bin\Debug\netcoreapp3.1\DDD - IF 1050.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\bin\Debug\netcoreapp3.1\DDD - IF 1050.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\bin\Debug\netcoreapp3.1\DDD - IF 1050.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\bin\Debug\netcoreapp3.1\DDD - IF 1050.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\DDD - IF 1050\DDD - IF 1050\DDD - IF 1050\obj\Debug\netcoreapp3.1\DDD - IF 1050.genruntimeconfig.cache
