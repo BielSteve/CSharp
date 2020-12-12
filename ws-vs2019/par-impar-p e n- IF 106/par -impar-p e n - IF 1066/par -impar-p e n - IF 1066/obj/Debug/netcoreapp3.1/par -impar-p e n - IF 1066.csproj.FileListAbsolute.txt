@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\bin\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\bin\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\bin\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\bin\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\bin\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\bin\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\par-impar-p e n- IF 106\par -impar-p e n - IF 1066\par -impar-p e n - IF 1066\obj\Debug\netcoreapp3.1\par -impar-p e n - IF 1066.genruntimeconfig.cache

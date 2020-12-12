@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Positivos e Média - IF 1064/1.0.0": {
+        "runtime": {
+          "Positivos e Média - IF 1064.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Positivos e Média - IF 1064/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

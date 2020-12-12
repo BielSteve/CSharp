@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pares entre Cinco Números - IF 1065/1.0.0": {
+        "runtime": {
+          "Pares entre Cinco Números - IF 1065.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pares entre Cinco Números - IF 1065/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
