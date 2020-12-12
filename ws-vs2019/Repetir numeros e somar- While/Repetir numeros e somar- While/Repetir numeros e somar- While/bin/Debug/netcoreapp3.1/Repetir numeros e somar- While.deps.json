@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Repetir numeros e somar- While/1.0.0": {
+        "runtime": {
+          "Repetir numeros e somar- While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repetir numeros e somar- While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
