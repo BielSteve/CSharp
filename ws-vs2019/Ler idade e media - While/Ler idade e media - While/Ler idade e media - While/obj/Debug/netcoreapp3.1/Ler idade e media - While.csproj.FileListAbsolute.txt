@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\bin\Debug\netcoreapp3.1\Ler idade e media - While.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\bin\Debug\netcoreapp3.1\Ler idade e media - While.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\bin\Debug\netcoreapp3.1\Ler idade e media - While.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\bin\Debug\netcoreapp3.1\Ler idade e media - While.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\bin\Debug\netcoreapp3.1\Ler idade e media - While.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\bin\Debug\netcoreapp3.1\Ler idade e media - While.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Ler idade e media - While\Ler idade e media - While\Ler idade e media - While\obj\Debug\netcoreapp3.1\Ler idade e media - While.genruntimeconfig.cache

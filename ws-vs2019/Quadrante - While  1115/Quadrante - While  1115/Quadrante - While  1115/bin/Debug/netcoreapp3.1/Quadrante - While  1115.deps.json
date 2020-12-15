@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Quadrante - While  1115/1.0.0": {
+        "runtime": {
+          "Quadrante - While  1115.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quadrante - While  1115/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

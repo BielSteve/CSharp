@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senha Fixa - While 1114", "Senha Fixa - While 1114\Senha Fixa - While 1114.csproj", "{D8990950-3529-416F-ABB1-DECD0DE71EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8990950-3529-416F-ABB1-DECD0DE71EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8990950-3529-416F-ABB1-DECD0DE71EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8990950-3529-416F-ABB1-DECD0DE71EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8990950-3529-416F-ABB1-DECD0DE71EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106CFB19-49A2-4361-878F-8D9FD25C2A76}
+	EndGlobalSection
+EndGlobal

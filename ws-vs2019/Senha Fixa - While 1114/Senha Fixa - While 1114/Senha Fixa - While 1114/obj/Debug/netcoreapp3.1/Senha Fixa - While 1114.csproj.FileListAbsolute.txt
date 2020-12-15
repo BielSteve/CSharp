@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\bin\Debug\netcoreapp3.1\Senha Fixa - While 1114.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\bin\Debug\netcoreapp3.1\Senha Fixa - While 1114.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\bin\Debug\netcoreapp3.1\Senha Fixa - While 1114.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\bin\Debug\netcoreapp3.1\Senha Fixa - While 1114.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\bin\Debug\netcoreapp3.1\Senha Fixa - While 1114.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\bin\Debug\netcoreapp3.1\Senha Fixa - While 1114.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Senha Fixa - While 1114\Senha Fixa - While 1114\Senha Fixa - While 1114\obj\Debug\netcoreapp3.1\Senha Fixa - While 1114.genruntimeconfig.cache
