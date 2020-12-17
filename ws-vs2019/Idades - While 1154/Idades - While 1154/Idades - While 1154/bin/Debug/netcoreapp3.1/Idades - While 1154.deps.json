@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Idades - While 1154/1.0.0": {
+        "runtime": {
+          "Idades - While 1154.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Idades - While 1154/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
