@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Várias Notas - 1118 - While/1.0.0": {
+        "runtime": {
+          "Várias Notas - 1118 - While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Várias Notas - 1118 - While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
