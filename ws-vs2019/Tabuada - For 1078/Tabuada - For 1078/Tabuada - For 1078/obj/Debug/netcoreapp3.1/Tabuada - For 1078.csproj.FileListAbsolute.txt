@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\bin\Debug\netcoreapp3.1\Tabuada - For 1078.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\bin\Debug\netcoreapp3.1\Tabuada - For 1078.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\bin\Debug\netcoreapp3.1\Tabuada - For 1078.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\bin\Debug\netcoreapp3.1\Tabuada - For 1078.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\bin\Debug\netcoreapp3.1\Tabuada - For 1078.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\bin\Debug\netcoreapp3.1\Tabuada - For 1078.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Tabuada - For 1078\Tabuada - For 1078\Tabuada - For 1078\obj\Debug\netcoreapp3.1\Tabuada - For 1078.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tabuada - For 1078/1.0.0": {
+        "runtime": {
+          "Tabuada - For 1078.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabuada - For 1078/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

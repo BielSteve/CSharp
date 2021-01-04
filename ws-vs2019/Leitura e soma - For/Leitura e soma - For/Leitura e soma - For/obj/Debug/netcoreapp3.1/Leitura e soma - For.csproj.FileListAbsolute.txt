@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\bin\Debug\netcoreapp3.1\Leitura e soma - For.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\bin\Debug\netcoreapp3.1\Leitura e soma - For.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\bin\Debug\netcoreapp3.1\Leitura e soma - For.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\bin\Debug\netcoreapp3.1\Leitura e soma - For.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\bin\Debug\netcoreapp3.1\Leitura e soma - For.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\bin\Debug\netcoreapp3.1\Leitura e soma - For.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura e soma - For\Leitura e soma - For\Leitura e soma - For\obj\Debug\netcoreapp3.1\Leitura e soma - For.genruntimeconfig.cache

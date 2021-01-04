@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\bin\Debug\netcoreapp3.1\Grenais - While 1131.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\bin\Debug\netcoreapp3.1\Grenais - While 1131.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\bin\Debug\netcoreapp3.1\Grenais - While 1131.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\bin\Debug\netcoreapp3.1\Grenais - While 1131.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\bin\Debug\netcoreapp3.1\Grenais - While 1131.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\bin\Debug\netcoreapp3.1\Grenais - While 1131.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Grenais - While 1131\Grenais - While 1131\Grenais - While 1131\obj\Debug\netcoreapp3.1\Grenais - While 1131.genruntimeconfig.cache
