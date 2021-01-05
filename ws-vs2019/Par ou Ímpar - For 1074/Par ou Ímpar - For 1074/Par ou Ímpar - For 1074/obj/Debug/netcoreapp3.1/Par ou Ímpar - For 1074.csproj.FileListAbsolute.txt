@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\bin\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\bin\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\bin\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\bin\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\bin\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\bin\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\Par ou Ímpar - For 1074\obj\Debug\netcoreapp3.1\Par ou Ímpar - For 1074.genruntimeconfig.cache

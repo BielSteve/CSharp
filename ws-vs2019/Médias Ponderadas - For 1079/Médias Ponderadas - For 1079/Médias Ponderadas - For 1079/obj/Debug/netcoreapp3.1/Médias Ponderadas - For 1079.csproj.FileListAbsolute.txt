@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\bin\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\bin\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\bin\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\bin\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\bin\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\bin\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\Médias Ponderadas - For 1079\obj\Debug\netcoreapp3.1\Médias Ponderadas - For 1079.genruntimeconfig.cache

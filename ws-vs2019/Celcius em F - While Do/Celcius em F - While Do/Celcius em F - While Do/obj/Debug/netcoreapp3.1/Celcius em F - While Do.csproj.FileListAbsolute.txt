@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\bin\Debug\netcoreapp3.1\Celcius em F - While Do.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\bin\Debug\netcoreapp3.1\Celcius em F - While Do.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\bin\Debug\netcoreapp3.1\Celcius em F - While Do.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\bin\Debug\netcoreapp3.1\Celcius em F - While Do.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\bin\Debug\netcoreapp3.1\Celcius em F - While Do.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\bin\Debug\netcoreapp3.1\Celcius em F - While Do.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Celcius em F - While Do\Celcius em F - While Do\Celcius em F - While Do\obj\Debug\netcoreapp3.1\Celcius em F - While Do.genruntimeconfig.cache

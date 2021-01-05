@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\bin\Debug\netcoreapp3.1\Experiências - For 1094.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\bin\Debug\netcoreapp3.1\Experiências - For 1094.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\bin\Debug\netcoreapp3.1\Experiências - For 1094.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\bin\Debug\netcoreapp3.1\Experiências - For 1094.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\bin\Debug\netcoreapp3.1\Experiências - For 1094.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\bin\Debug\netcoreapp3.1\Experiências - For 1094.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Experiências - For 1094\Experiências - For 1094\Experiências - For 1094\obj\Debug\netcoreapp3.1\Experiências - For 1094.genruntimeconfig.cache

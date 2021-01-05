@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\bin\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\bin\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\bin\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\bin\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\bin\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\bin\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\Quadrado de Pares - For 1073\obj\Debug\netcoreapp3.1\Quadrado de Pares - For 1073.genruntimeconfig.cache

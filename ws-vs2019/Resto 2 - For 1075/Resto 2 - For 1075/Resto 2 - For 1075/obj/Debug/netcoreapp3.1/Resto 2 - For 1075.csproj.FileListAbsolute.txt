@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\bin\Debug\netcoreapp3.1\Resto 2 - For 1075.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\bin\Debug\netcoreapp3.1\Resto 2 - For 1075.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\bin\Debug\netcoreapp3.1\Resto 2 - For 1075.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\bin\Debug\netcoreapp3.1\Resto 2 - For 1075.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\bin\Debug\netcoreapp3.1\Resto 2 - For 1075.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\bin\Debug\netcoreapp3.1\Resto 2 - For 1075.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Resto 2 - For 1075\Resto 2 - For 1075\Resto 2 - For 1075\obj\Debug\netcoreapp3.1\Resto 2 - For 1075.genruntimeconfig.cache

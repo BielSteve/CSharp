@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\bin\Debug\netcoreapp3.1\Maior e Posição - For 1080.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\bin\Debug\netcoreapp3.1\Maior e Posição - For 1080.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\bin\Debug\netcoreapp3.1\Maior e Posição - For 1080.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\bin\Debug\netcoreapp3.1\Maior e Posição - For 1080.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\bin\Debug\netcoreapp3.1\Maior e Posição - For 1080.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\bin\Debug\netcoreapp3.1\Maior e Posição - For 1080.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior e Posição - For 1080\Maior e Posição - For 1080\Maior e Posição - For 1080\obj\Debug\netcoreapp3.1\Maior e Posição - For 1080.genruntimeconfig.cache

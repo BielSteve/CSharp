@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Números Ímpares - For 1067/1.0.0": {
+        "runtime": {
+          "Números Ímpares - For 1067.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Números Ímpares - For 1067/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

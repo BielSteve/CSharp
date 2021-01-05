@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Celcius em F - While Do/1.0.0": {
+        "runtime": {
+          "Celcius em F - While Do.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Celcius em F - While Do/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
