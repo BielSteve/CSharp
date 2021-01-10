@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\bin\Debug\netcoreapp3.1\Leitura de Valores - Vetor.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\bin\Debug\netcoreapp3.1\Leitura de Valores - Vetor.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\bin\Debug\netcoreapp3.1\Leitura de Valores - Vetor.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\bin\Debug\netcoreapp3.1\Leitura de Valores - Vetor.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\bin\Debug\netcoreapp3.1\Leitura de Valores - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\bin\Debug\netcoreapp3.1\Leitura de Valores - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Leitura de Valores - Vetor\Leitura de Valores - Vetor\Leitura de Valores - Vetor\obj\Debug\netcoreapp3.1\Leitura de Valores - Vetor.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sequência Lógica 2- for 1145/1.0.0": {
+        "runtime": {
+          "Sequência Lógica 2- for 1145.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sequência Lógica 2- for 1145/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

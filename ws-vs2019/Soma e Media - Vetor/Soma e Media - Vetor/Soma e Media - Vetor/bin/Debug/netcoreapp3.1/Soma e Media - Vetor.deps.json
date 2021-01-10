@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Soma e Media - Vetor/1.0.0": {
+        "runtime": {
+          "Soma e Media - Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soma e Media - Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
