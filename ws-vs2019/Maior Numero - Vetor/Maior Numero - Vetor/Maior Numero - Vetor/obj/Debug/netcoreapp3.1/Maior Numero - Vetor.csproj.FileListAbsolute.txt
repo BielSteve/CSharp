@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\bin\Debug\netcoreapp3.1\Maior Numero - Vetor.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\bin\Debug\netcoreapp3.1\Maior Numero - Vetor.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\bin\Debug\netcoreapp3.1\Maior Numero - Vetor.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\bin\Debug\netcoreapp3.1\Maior Numero - Vetor.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\bin\Debug\netcoreapp3.1\Maior Numero - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\bin\Debug\netcoreapp3.1\Maior Numero - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Maior Numero - Vetor\Maior Numero - Vetor\Maior Numero - Vetor\obj\Debug\netcoreapp3.1\Maior Numero - Vetor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\bin\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\bin\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\bin\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\bin\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\bin\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\bin\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\Nome Idade e Altura - Vetor\obj\Debug\netcoreapp3.1\Nome Idade e Altura - Vetor.genruntimeconfig.cache

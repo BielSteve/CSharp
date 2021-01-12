@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\bin\Debug\netcoreapp3.1\foreach - vetor.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\bin\Debug\netcoreapp3.1\foreach - vetor.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\bin\Debug\netcoreapp3.1\foreach - vetor.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\bin\Debug\netcoreapp3.1\foreach - vetor.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\bin\Debug\netcoreapp3.1\foreach - vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\bin\Debug\netcoreapp3.1\foreach - vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\foreach - vetor\foreach - vetor\foreach - vetor\obj\Debug\netcoreapp3.1\foreach - vetor.genruntimeconfig.cache
