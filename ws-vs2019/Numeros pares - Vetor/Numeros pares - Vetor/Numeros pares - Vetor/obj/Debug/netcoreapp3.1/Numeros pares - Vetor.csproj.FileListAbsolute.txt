@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\bin\Debug\netcoreapp3.1\Numeros pares - Vetor.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\bin\Debug\netcoreapp3.1\Numeros pares - Vetor.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\bin\Debug\netcoreapp3.1\Numeros pares - Vetor.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\bin\Debug\netcoreapp3.1\Numeros pares - Vetor.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\bin\Debug\netcoreapp3.1\Numeros pares - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\bin\Debug\netcoreapp3.1\Numeros pares - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Numeros pares - Vetor\Numeros pares - Vetor\Numeros pares - Vetor\obj\Debug\netcoreapp3.1\Numeros pares - Vetor.genruntimeconfig.cache
