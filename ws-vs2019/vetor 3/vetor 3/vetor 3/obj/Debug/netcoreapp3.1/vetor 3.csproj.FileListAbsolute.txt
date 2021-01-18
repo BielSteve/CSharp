@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\bin\Debug\netcoreapp3.1\vetor 3.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\bin\Debug\netcoreapp3.1\vetor 3.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\bin\Debug\netcoreapp3.1\vetor 3.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\bin\Debug\netcoreapp3.1\vetor 3.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\bin\Debug\netcoreapp3.1\vetor 3.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\bin\Debug\netcoreapp3.1\vetor 3.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\vetor 3\vetor 3\vetor 3\obj\Debug\netcoreapp3.1\vetor 3.genruntimeconfig.cache
