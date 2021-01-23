@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\bin\Debug\netcoreapp3.1\Vetor 9.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\bin\Debug\netcoreapp3.1\Vetor 9.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\bin\Debug\netcoreapp3.1\Vetor 9.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\bin\Debug\netcoreapp3.1\Vetor 9.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\bin\Debug\netcoreapp3.1\Vetor 9.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\bin\Debug\netcoreapp3.1\Vetor 9.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Vetor 9\Vetor 9\Vetor 9\obj\Debug\netcoreapp3.1\Vetor 9.genruntimeconfig.cache
