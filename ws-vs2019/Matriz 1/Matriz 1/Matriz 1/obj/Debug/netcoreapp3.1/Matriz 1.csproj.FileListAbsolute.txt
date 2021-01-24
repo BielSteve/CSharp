@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\bin\Debug\netcoreapp3.1\Matriz 1.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\bin\Debug\netcoreapp3.1\Matriz 1.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\bin\Debug\netcoreapp3.1\Matriz 1.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\bin\Debug\netcoreapp3.1\Matriz 1.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\bin\Debug\netcoreapp3.1\Matriz 1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\bin\Debug\netcoreapp3.1\Matriz 1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\C#\ws-vs2019\Matriz 1\Matriz 1\Matriz 1\obj\Debug\netcoreapp3.1\Matriz 1.genruntimeconfig.cache
